@@ -1,4 +1,5 @@
 <img align="left" alt="workout app | EZ app" width="200px" src="https://github.com/Michael9905/iOS-workout-app/screenshots/EZ_logo.png?raw=true" />
+<img align="left" alt="JoshMadakor | YouTube" width="200px" src="https://github.com/Michael9905/iOS-workout-app/blob/main/screenshots/EZ_logo.png?raw=true" />
 
 # iOS-workout-app
  
