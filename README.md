@@ -6,6 +6,9 @@
          - YouTube video <br>
          - Articles from professional athletes/researchers <br>
  </p>
-<img align="left" alt="EZ app | app store" width="200px" src="https://github.com/Michael9905/iOS-workout-app/tree/main/Documentation/Picture1.png" /><br>
+<img align="left" alt="EZ app | app store" width="200px" src="https://github.com/Michael9905/iOS-workout-app/blob/main/Documentation/Picture2.png" />
+<img align="left" alt="EZ app | app store" width="200px" src="https://github.com/Michael9905/iOS-workout-app/blob/main/Documentation/Picture3.png" />
+<img align="left" alt="EZ app | app store" width="400px" src="https://github.com/Michael9905/iOS-workout-app/blob/main/Documentation/Picture4.png" />
 
-https://github.com/Michael9905/iOS-workout-app/tree/main/Documentation
+
+
